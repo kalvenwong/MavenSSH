@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MavenSSH:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MavenSSH.war">
+      <element id="artifact" artifact-name="MavenSSH:war exploded" />
+    </root>
+  </artifact>
+</component>
